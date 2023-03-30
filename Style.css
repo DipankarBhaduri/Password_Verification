@@ -1,0 +1,44 @@
+
+h1 {
+     background-image:linear-gradient(to right ,rgb(156, 118, 49), rgb(22, 22, 129) , red , black , rgb(162, 162, 13)) ;
+     text-align: center;
+    color : rgb(3, 230, 26) ;
+}
+
+* {
+     background-image: linear-gradient(to right , rgb(22, 22, 129) , rgb(162, 162, 13)) ;
+}
+
+.container{
+     justify-content: space-evenly;
+
+}
+
+#aTextBox , #bTextBox  {
+
+     display: inline;
+     padding: 2px;
+     border : 2px solid rgb(5, 79, 139);
+     margin: 5px;
+     color: rgb(12, 236, 20) ;
+     height: 20px;
+     border-radius: 15px;
+     width: 90%;
+     
+}
+
+.SubContainer {
+     background-color: none ;
+}
+
+#submitButton {
+     width: 100px;
+     height: 30px;
+     border-radius: 10px;
+     margin: 5px;
+     margin-top: 20px;
+}
+
+p {
+     color: brown;
+}
